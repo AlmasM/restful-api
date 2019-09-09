@@ -1,0 +1,5 @@
+GET_ALL_DEVICES = 'all'
+CREATE_DEVICE = "create"
+DELETE_DEVICE = "delete"
+GET_DEVICE_CREDS = "device"
+GET_DEVICE_LOCATION = "location"
