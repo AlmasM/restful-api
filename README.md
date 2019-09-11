@@ -4,6 +4,13 @@ This repository was created as a part of the article published on [Medium.com](h
 
 ### **Outline**
 
+- [Summary](https://github.com/AlmasM/restful-api#summary)
+- [Repo Organization](https://github.com/AlmasM/restful-api#repo-organization)
+- [How to run code](https://github.com/AlmasM/restful-api#how-to-run-code)
+  1. [Server Side Application](https://github.com/AlmasM/restful-api#1-server-side-application)
+  2. [Rest client side application - Python](https://github.com/AlmasM/restful-api#2-rest-client-side-application---restlet)
+- [OPTIONAL: AWS Lambda and Zappa Deployment](https://github.com/AlmasM/restful-api#optional-aws-lambda-and-zappa-deployment)
+
 ### **Summary**
 
 Repository contains source codes to get started with RESTful API web services using Python Flask, Request and Zappa libraries/frameworks. Files in the repo should be used as an example to get one started with API web services, and to create first API calls from _Rest client_: IoT device, web browser, application, etc.
@@ -170,7 +177,7 @@ In this section we will focus on server side application in the AWS Lambda funct
 
 ### On your device
 
-- Now, refer back to [2. Rest client side application - Python]() section to repeat the procedure from client-side.
+- Now, refer back to [2. Rest client side application - Python](https://github.com/AlmasM/restful-api#2-rest-client-side-application---python) section to repeat the procedure from client-side.
 
 - Navigate to template file: `python_api_requests/.env.sample` and create `.env` file using the template. This file will have URL and Port number to access API endpoints.
 
